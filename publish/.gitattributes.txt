@@ -1,4 +1,4 @@
 *.manifest binary
 *.application binary
 *.deploy binary
-*https://raw.githubusercontent.com/DeveshGautam2000/PDF-Split-Application/master/publish/
+*https://github.com/DeveshGautam2000/PDF-Split-Application/tree/master/publish
