@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:PDF_Split_Application"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid RenderTransformOrigin="0.498,0.463">
         <Label Content="PDF-Split Application" HorizontalAlignment="Left" Height="27" Margin="30,10,0,0" VerticalAlignment="Top" Width="129"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="45" Margin="63,97,0,0" VerticalAlignment="Top" Width="158" Click="Button_Click"/>
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="27" Margin="30,10,0,0" VerticalAlignment="Top" Width="129"/>
